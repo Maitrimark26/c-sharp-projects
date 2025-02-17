@@ -1,0 +1,7 @@
+C:\Users\kisha\source\repos\ATMapp\ATMapp\obj\Debug\ATMapp.csproj.AssemblyReference.cache
+C:\Users\kisha\source\repos\ATMapp\ATMapp\obj\Debug\ATMapp.csproj.CoreCompileInputs.cache
+C:\Users\kisha\source\repos\ATMapp\ATMapp\bin\Debug\ATMapp.exe.config
+C:\Users\kisha\source\repos\ATMapp\ATMapp\bin\Debug\ATMapp.exe
+C:\Users\kisha\source\repos\ATMapp\ATMapp\bin\Debug\ATMapp.pdb
+C:\Users\kisha\source\repos\ATMapp\ATMapp\obj\Debug\ATMapp.exe
+C:\Users\kisha\source\repos\ATMapp\ATMapp\obj\Debug\ATMapp.pdb
